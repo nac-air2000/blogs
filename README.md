@@ -12,3 +12,5 @@ record_visualize_speech.ipynb: [show spectrogram of your speech with python(pyau
 poly_fitting.ipynb: [polynomial curve fitting with python](http://samuiui.com/2019/05/15/python%E3%81%A7%E5%A4%9A%E9%A0%85%E5%BC%8F%E8%BF%91%E4%BC%BC/)
 
 kNN_iris.ipynb: [iris classification by k-NN](http://samuiui.com/2019/05/25/k-nn%E6%B3%95%E3%81%A7%E3%82%A2%E3%83%A4%E3%83%A1%E8%AD%98%E5%88%A5/)
+
+blog_fdtd: [acoustic FDTD method simulation](http://samuiui.com/2019/06/03/fdtd%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E9%9F%B3%E9%9F%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/)
