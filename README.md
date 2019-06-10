@@ -14,3 +14,5 @@ poly_fitting.ipynb: [polynomial curve fitting with python](http://samuiui.com/20
 kNN_iris.ipynb: [iris classification by k-NN](http://samuiui.com/2019/05/25/k-nn%E6%B3%95%E3%81%A7%E3%82%A2%E3%83%A4%E3%83%A1%E8%AD%98%E5%88%A5/)
 
 blog_fdtd: [acoustic FDTD method simulation](http://samuiui.com/2019/06/03/fdtd%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E9%9F%B3%E9%9F%BF%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/)
+
+sweptsine.ipynb: [generate up Swept-Sine signal for impulse response](http://samuiui.com/2019/06/10/swept-sinetsp%E4%BF%A1%E5%8F%B7%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E5%BF%9C%E7%AD%94%E6%B8%AC%E5%AE%9Apython/)
